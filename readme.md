@@ -1,5 +1,12 @@
 # MultiscaleTuring
 
+This is a reimplementation of  multiscale turing patterns  using Shaders on the GPU.
+Helpful Links:
+http://www.openframeworks.cc/tutorials/graphics/shaders.html
+http://www.patriciogonzalezvivo.com/blog/?p=488
+http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter32.html
+
+Original Readme:
 This is an implementation of multiscale turing patterns using openFrameworks and OpenCv. Originally based on the implementation [here](http://www.wblut.com/2011/07/13/mccabeism-turning-noise-into-a-thing-of-beauty/).
 
 The basic sketch will run in your browser on [Open Processing](http://www.openprocessing.org/sketch/31195).
